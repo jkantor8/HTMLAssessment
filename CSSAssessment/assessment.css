@@ -42,7 +42,7 @@ blockquote {
   background-position: center;
 }
 
-#teamRoster > li > li{
+#teamRoster > li:last-child {
 	background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg');
 	background-size: cover;
   background-position: center;
